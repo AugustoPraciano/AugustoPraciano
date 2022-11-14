@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AugustoPraciano
 - 👀 I’m interested in biogeography 
 - 🌱 I’m currently learning species distribution modeling
-- 💞️ I’m looking to collaborate on geographic codes
+- 💞️ I’m looking to collaborate on "R" geographic codes
 - 📫 How to reach me ... cesar.praciano@gmail.com
 
 <!---
